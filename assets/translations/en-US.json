@@ -1,0 +1,10 @@
+{
+  "keywords": {
+    "next": "Next"
+  },
+  "newsPage": {
+    "news": "News",
+    "latestNews": "Latest News",
+    "newsDetails": "News item"
+  }
+}
